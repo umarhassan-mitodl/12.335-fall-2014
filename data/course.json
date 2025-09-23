@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Chemistry"
+    ]
+  ],
+  "legacy_uid": "f054c87a-3cc6-1944-400b-bc05c2d80ca1",
+  "instructors": {
+    "content": [
+      "b531928d-7a85-1672-bb22-f0ce26134f07",
+      "82356aa7-1b69-5d8e-04e4-065a7b1b7ad5",
+      "b7988d4b-fb9d-0495-d003-90810d9b2723"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8de82f5f-e0f3-1b1a-5e1d-316cb85de3a4",
+    "website": "12-335-experimental-atmospheric-chemistry-fall-2014"
+  },
+  "course_title": "Experimental Atmospheric Chemistry",
+  "course_description": "This course provides an introduction to the atmospheric chemistry involved in climate change, air pollution and biogeochemical cycles using a combination of hands-on laboratory, field studies, and simple computer models. Lectures will be accompanied by field trips to collect air samples for the analysis of gases, aerosols and clouds by the students.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "12.835",
+  "primary_course_number": "12.335",
+  "course_image_thumbnail": {
+    "content": "4dc59d01-1c12-102f-3392-fe94b72e5dfe",
+    "website": "12-335-experimental-atmospheric-chemistry-fall-2014"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments"
+  ],
+  "site_uid": "e3115b17-cdff-4c5c-8cde-e20fb5f4868c",
+  "site_short_id": "12.335-fall-2014",
+  "site_url_path": "courses/12-335-experimental-atmospheric-chemistry-fall-2014",
+  "title": "Course Metadata"
+}
