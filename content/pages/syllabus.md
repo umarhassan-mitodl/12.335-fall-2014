@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -101,7 +103,7 @@ Field Trips and Laboratory Work:
 Students must make all field trips and show up for all laboratory experiments. If the TA can manage, a make-up field trip or laboratory appointment can be offered but this should not be expected.
 
 Statement on Group Work:  
-You will be working in groups during laboratory and field experiments and are free to collaborate on the measurements and other group work that will form the basis of your individual presentations and reports. However, all the slides in your presentations and all the text and graphs in your reports should be your own work. Copying another person's assignment text, data or figures will not be tolerated and will result in a lower grade. All work should be fully referenced. For a general discussion of academic integrity, please see "{{% resource_link "324d9b65-ba05-423d-9d54-c21188f86899" "Academic Integrity at MIT" %}}".
+You will be working in groups during laboratory and field experiments and are free to collaborate on the measurements and other group work that will form the basis of your individual presentations and reports. However, all the slides in your presentations and all the text and graphs in your reports should be your own work. Copying another person's assignment text, data or figures will not be tolerated and will result in a lower grade. All work should be fully referenced. For a general discussion of academic integrity, please see "[Academic Integrity at MIT](http://integrity.mit.edu/)".
 
 Special Circumstances:  
 The penalties described above can be forgiven under special circumstances (for example, personal reasons, health reasons, etc.) if the student provides documentation from Student Services, a doctor or another reputable source.

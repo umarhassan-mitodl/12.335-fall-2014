@@ -4,6 +4,8 @@ description: This resource contains the information regarding CO2 and Climate Ch
 file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/86ef763fc983630c0995705b1ad5c546_MIT12_335F14_Lecture2.pdf
 file_size: 4365691
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

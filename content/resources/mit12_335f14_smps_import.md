@@ -4,6 +4,8 @@ description: This is the special file regarding SMPS import.
 file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/869a8dd663a83fd32ce6d6830fc8df00_MIT12_335F14_SMPS_import.zip
 file_size: 1415170
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

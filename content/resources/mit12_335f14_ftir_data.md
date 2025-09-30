@@ -4,6 +4,8 @@ description: This is the special file regarding FTIR data.
 file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/4f4271b4141f28e627c9b181e0ebce5b_MIT12_335F14_FTIR_data.zip
 file_size: 1915154
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

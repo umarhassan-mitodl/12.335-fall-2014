@@ -30,6 +30,7 @@
     "website": "12-335-experimental-atmospheric-chemistry-fall-2014"
   },
   "course_title": "Experimental Atmospheric Chemistry",
+  "hide_download": true,
   "course_description": "This course provides an introduction to the atmospheric chemistry involved in climate change, air pollution and biogeochemical cycles using a combination of hands-on laboratory, field studies, and simple computer models. Lectures will be accompanied by field trips to collect air samples for the analysis of gases, aerosols and clouds by the students.\n",
   "department_numbers": [
     "12"
@@ -40,6 +41,7 @@
     "content": "4dc59d01-1c12-102f-3392-fe94b72e5dfe",
     "website": "12-335-experimental-atmospheric-chemistry-fall-2014"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes",
     "Activity Assignments"

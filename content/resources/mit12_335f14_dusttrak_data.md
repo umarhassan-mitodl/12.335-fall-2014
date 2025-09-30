@@ -4,6 +4,8 @@ description: This is the special file regarding DustTrak data.
 file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/83d9031f1356cd41c2638fcdf2cfa209_MIT12_335F14_DustTrak_data.zip
 file_size: 47969
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

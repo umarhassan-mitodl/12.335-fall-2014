@@ -4,6 +4,8 @@ description: This resource contains the information regarding Aerosol and Clouds
 file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/5dd86b93a98f6530b87394f46fc6c6cc_MIT12_335F14_Lecture3_4.pdf
 file_size: 2998394
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
