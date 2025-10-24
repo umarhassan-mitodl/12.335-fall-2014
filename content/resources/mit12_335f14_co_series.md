@@ -4,8 +4,6 @@ description: This resource contains information related co series.
 file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/6d0f0f7482e1077e363515bc0070bef6_MIT12_335F14_CO_series.jpg
 file_size: 46524
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -4,8 +4,6 @@ description: This is the special file regarding co import.
 file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/d871eeaf9f2428a3d8f9f3bdc9052198_MIT12_335F14_co_import.m
 file_size: 491
 file_type: text/x-objcsrc
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

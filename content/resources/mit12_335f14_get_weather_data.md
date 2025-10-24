@@ -4,8 +4,6 @@ description: This is the special file regarding get weather data.
 file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/62efae6ec54cfbb971578a5bc1db0ed7_MIT12_335F14_get_weather_data.m
 file_size: 959
 file_type: text/x-objcsrc
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

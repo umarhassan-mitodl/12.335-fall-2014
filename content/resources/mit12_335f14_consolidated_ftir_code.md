@@ -4,8 +4,6 @@ description: This is the special file regarding Consolidated FTIR code.
 file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/80a9d3130a4f04cf9356cf14241c8444_MIT12_335F14_Consolidated_FTIR_code.zip
 file_size: 226887
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

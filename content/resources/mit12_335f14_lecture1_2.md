@@ -5,8 +5,6 @@ description: This resource contains the information regarding Atmospheric Photoc
 file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/722fe3f8156f550f9cd4ca109c1c41e3_MIT12_335F14_Lecture1_2.pdf
 file_size: 1816235
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

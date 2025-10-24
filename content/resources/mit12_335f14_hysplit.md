@@ -5,8 +5,6 @@ description: This file contains information regarding brief tutorial of HYSPLIT 
 file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/d0fe517fd0448a115ac06c4ba11f6704_MIT12_335F14_HYSPLIT.pdf
 file_size: 718840
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

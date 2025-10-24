@@ -4,8 +4,6 @@ description: This is the special file regarding CCN import.
 file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/30f6f231e1bd1dc6f46dff032896f296_MIT12_335F14_CCN_import.zip
 file_size: 3009
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
